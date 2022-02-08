@@ -1,1 +1,4 @@
-# python_github_stars_fetcher
+# A project for fetching the most starred repos on Github by programming language.
+
+* cmdline version
+* Flask version
